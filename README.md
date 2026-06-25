@@ -15,7 +15,7 @@
 
 ## 🎯 Overview
 
-This project involved the localization of a Brazilian Portuguese educational comic focused on child safety, body autonomy, and trusted-adult communication.
+This project involved the localization of a Brazilian Portuguese educational comic (K-9 level) focused on child safety, body autonomy, and trusted-adult communication.
 
 The material was originally developed through a public initiative by the Court of Justice of Goiás (Brazil) and needed to be adapted for English-speaking elementary-age readers while keeping the educational tone intact and emotionally safe.
 
