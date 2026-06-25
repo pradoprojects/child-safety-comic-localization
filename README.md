@@ -29,7 +29,7 @@ The focus was not just linguistic, but also how children are expected to interpr
 
 Key considerations included child-friendly language, repetition as a learning tool, and how authority is expressed through the teacher’s voice in sensitive topics.
 
-📄 Full Context Notes: [Context_Analysis.pdf](Context_Analysis.pdf)
+📄 Full Context Notes: [Context_Notes.docx](Context_Notes.docx)
 
 ---
 
